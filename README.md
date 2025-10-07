@@ -1,7 +1,3 @@
-Of course, here is a README file for your project.
-
------
-
 # Rubik's Cube Solver
 
 This project is a C++ implementation of a Rubik's Cube solver that can find the solution for a scrambled 3x3x3 cube. It features multiple solving algorithms and cube representations to demonstrate and compare their efficiency.
